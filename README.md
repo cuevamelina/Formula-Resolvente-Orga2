@@ -1,9 +1,11 @@
-# Formula-Resolvente-ASM
+# Formula Resolvente-ASM
 Trabajo Practico 1- 
 
 Organización del computador II - UNGS 2
 do cuatrimestre del 2021
 
+# Objetivos
+ Realizar un programa en assembler IA32 que calcule las raíces de una función cuadrática a través de la fórmula resolvente.
 
 
 # Requisitos
